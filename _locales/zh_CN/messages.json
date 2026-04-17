@@ -1,0 +1,62 @@
+{
+  "appName": {
+    "message": "标签页总览面板"
+  },
+  "appDescription": {
+    "message": "在侧边栏集中查看所有已打开网页的标题与内容摘要，点击即可跳转到对应标签页。"
+  },
+  "actionOpenTitle": {
+    "message": "打开标签页总览"
+  },
+  "pageTitle": {
+    "message": "标签页总览"
+  },
+  "brandTitle": {
+    "message": "标签页总览"
+  },
+  "brandSubtitle": {
+    "message": "点击卡片切换网页"
+  },
+  "refresh": {
+    "message": "刷新"
+  },
+  "statusLoadingSnippets": {
+    "message": "正在读取各页内容摘要…"
+  },
+  "statusSwitchFailed": {
+    "message": "无法切换：标签页可能已关闭。"
+  },
+  "emptyNoTabs": {
+    "message": "当前没有可展示的标签页。"
+  },
+  "emptyLoading": {
+    "message": "加载中…"
+  },
+  "windowN": {
+    "message": "窗口 $NUM$",
+    "placeholders": {
+      "num": {
+        "content": "$1",
+        "example": "1"
+      }
+    }
+  },
+  "windowCurrent": {
+    "message": "当前浏览器窗口"
+  },
+  "badgeCurrent": {
+    "message": "当前"
+  },
+  "snippetDiscarded": {
+    "message": "标签页已休眠，切换到该页后可加载摘要。"
+  },
+  "snippetRestricted": {
+    "message": "无法读取页面正文（受页面限制或特殊页面）。"
+  },
+  "snippetUnsupported": {
+    "message": "此页面类型不支持正文摘要。"
+  },
+  "untitled": {
+    "message": "无标题"
+  }
+}

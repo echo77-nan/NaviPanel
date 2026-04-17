@@ -1,0 +1,62 @@
+{
+  "appName": {
+    "message": "Tab Overview Panel"
+  },
+  "appDescription": {
+    "message": "See all open tabs in the side panel with titles and snippets; click a card to switch. Local only."
+  },
+  "actionOpenTitle": {
+    "message": "Open tab overview"
+  },
+  "pageTitle": {
+    "message": "Tab overview"
+  },
+  "brandTitle": {
+    "message": "Tab overview"
+  },
+  "brandSubtitle": {
+    "message": "Click a card to switch tabs"
+  },
+  "refresh": {
+    "message": "Refresh"
+  },
+  "statusLoadingSnippets": {
+    "message": "Loading snippets from pages…"
+  },
+  "statusSwitchFailed": {
+    "message": "Could not switch: the tab may have been closed."
+  },
+  "emptyNoTabs": {
+    "message": "No tabs to show."
+  },
+  "emptyLoading": {
+    "message": "Loading…"
+  },
+  "windowN": {
+    "message": "Window $NUM$",
+    "placeholders": {
+      "num": {
+        "content": "$1",
+        "example": "1"
+      }
+    }
+  },
+  "windowCurrent": {
+    "message": "Current browser window"
+  },
+  "badgeCurrent": {
+    "message": "Active"
+  },
+  "snippetDiscarded": {
+    "message": "Tab is discarded; open it once to load a snippet."
+  },
+  "snippetRestricted": {
+    "message": "Could not read page text (restricted or special page)."
+  },
+  "snippetUnsupported": {
+    "message": "This page type does not support text snippets."
+  },
+  "untitled": {
+    "message": "Untitled"
+  }
+}
